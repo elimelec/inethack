@@ -7,4 +7,4 @@ One morning I woke up and decided that I've waited far too long. That's the day 
 
 When after 10 days or so nothing had happened I've finally had enough of waiting for a port and started implementing. I also thought that since NetHack has nice support for win infrastructure it would be a 3-day job, maybe a week to polish it :)
 
-The things I copy/pasted is the win_iphone stubs (I removed the implementation because I had a slightly different architecture) and some interaction with the NetHack core (like the declaration of the stubs as procs, the fopen implementation etc.) and the first main implementation (though I later copied that from another port, the tty I think).
+The things I copied is the winiphone stubs (I removed the implementation because I had a slightly different architecture) and some interaction with the NetHack core (like the declaration of the stubs as procs, the fopen implementation etc.) and the first main implementation (though I later replaced that with another port, the tty I think).
