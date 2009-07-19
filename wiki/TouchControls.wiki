@@ -7,8 +7,8 @@ The touch controls are merely a fine layer over the usual (tty port) NetHack com
 
 = Movement =
 
-* Tap on the main screen (not the buttons!) and your PC will move one step into the general direction. You can tap into the message or status texts.
-* Tap and hold for some time and your PC will continue to move into the general direction until something interesting is found (g + movement in normal NetHack).
+ * Tap on the main screen (not the buttons!) and your PC will move one step into the general direction. You can tap into the message or status texts.
+ * Tap and hold for some time and your PC will continue to move into the general direction until something interesting is found (g + movement in normal NetHack).
 
 = Level Overview =
 
