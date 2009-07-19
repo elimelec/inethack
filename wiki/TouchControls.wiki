@@ -1,6 +1,10 @@
 #summary How to control your character (PC)
 #labels touch,controls,help
 
+= Introduction =
+
+The touch controls are merely a fine layer over the usual (tty port) NetHack commands (see [http://www.nethack.org/v343/Guidebook.html#_TOCentry_7 NetHack Commands (Guidebook)]).
+
 = Movement =
 
 * Tap on the main screen (not the buttons!) and your PC will move one step into the general direction. You can tap into the message or status texts.
