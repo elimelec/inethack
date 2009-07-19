@@ -8,4 +8,4 @@ Since this wiki automatically interprets wiki style words as links and NetHack i
 
 = Links =
 
-* [http://www.nethack.org/ NetHack Official Site]
+ * [http://www.nethack.org/ NetHack Official Site]
