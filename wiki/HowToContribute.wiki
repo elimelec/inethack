@@ -1,5 +1,0 @@
-#summary How to contribute.
-#labels nethack,contribute,source
-
- * If you'd like to contribute source code append your patch to the issues it solves (if the issue does not yet exist create it).
- * If you'd like to contribute something else, also create an issue (with a means for contacting you).
