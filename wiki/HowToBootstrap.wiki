@@ -1,0 +1,15 @@
+#summary How to bootstrap iNetHack on Mac OS X.
+#labels nethack,bootstrapping
+
+= Introduction =
+
+I could have sworn I had created a page for this, but apparently not ...
+
+= Details =
+
+All commands to be executed from nethack top level directory.
+
+Create date.h:
+
+  * cd util ; make
+  * cd src ; ../util/makedefs -v
