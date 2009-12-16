@@ -13,9 +13,6 @@ Create makefiles:
 
   * cd sys/unix; sh setup.sh
 
-Make sure config.h #defines TTY_GRAPHICS, not IPHONE_GRAPHICS!
+Build TTY NetHack:
 
-Create game:
-  * make
-
-This should be it. *Don't forget to switch back to IPHONE_GRAPHICS!*
+  * make spotless ; make
