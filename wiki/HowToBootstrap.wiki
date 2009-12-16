@@ -18,7 +18,7 @@ Make sure config.h #defines TTY_GRAPHICS, not IPHONE_GRAPHICS!
 Create game:
   * make
 
-This should be it. The following are some details you most probably won't need if you build the whole game.
+*This should be it*. The following are some details you most probably won't need if you build the whole game.
 
 Create date.h:
 
