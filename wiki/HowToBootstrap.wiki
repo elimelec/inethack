@@ -18,14 +18,4 @@ Make sure config.h #defines TTY_GRAPHICS, not IPHONE_GRAPHICS!
 Create game:
   * make
 
-*This should be it*. The following are some details you most probably won't need if you build the whole game.
-
-Create date.h:
-
-  * cd util ; make
-  * cd src ; ../util/makedefs -v
-
-Create dungeons:
-
-  * cd util ; make dgn_comp
-  * cd dat ; make dungeon
+This should be it. *Don't forget to switch back to IPHONE_GRAPHICS!*
