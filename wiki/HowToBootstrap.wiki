@@ -17,3 +17,8 @@ Create date.h:
 
   * cd util ; make
   * cd src ; ../util/makedefs -v
+
+Create dungeons:
+
+  * cd util ; make dgn_comp
+  * cd dat ; make dungeon
