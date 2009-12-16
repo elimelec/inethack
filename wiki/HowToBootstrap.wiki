@@ -10,7 +10,8 @@ I could have sworn I had created a page for this, but apparently not ...
 All commands to be executed from nethack top level directory.
 
 Create makefiles:
-* cd sys/unix; sh setup.sh
+
+  * cd sys/unix; sh setup.sh
 
 Create date.h:
 
