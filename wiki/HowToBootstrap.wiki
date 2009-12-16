@@ -18,6 +18,9 @@ Build TTY NetHack:
   * in config.h, switch from IPHONE_GRAPHICS to TTY_GRAPHICS
   * in src/Makefile, WINTTYLIB must be -lncurses
   * make all
+  * in config.h, switch back to IPHONE_GRAPHICS
+
+Some additional targets you have to update occasionally:
+
   * make dungeon
   * cd src ; make tile.c
-  * in config.h, switch back to IPHONE_GRAPHICS
