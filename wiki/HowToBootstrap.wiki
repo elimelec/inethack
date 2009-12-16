@@ -3,7 +3,7 @@
 
 = Introduction =
 
-I could have sworn I had created a page for this, but apparently not ...
+I could have sworn I had created a page for this, but apparently not ... *There's usually no need to do this.* Exceptions are changes to the core, like versions, or if you want to update the nethack branch completely (but then you'll have to do a lot more to patch).
 
 = Details =
 
