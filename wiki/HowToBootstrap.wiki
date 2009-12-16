@@ -13,6 +13,8 @@ Create makefiles:
 
   * cd sys/unix; sh setup.sh
 
+Make sure config.h #defines TTY_GRAPHICS, not IPHONE_GRAPHICS!
+
 Create game:
   * make
 
