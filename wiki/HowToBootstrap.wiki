@@ -17,5 +17,6 @@ Build TTY NetHack:
 
   * in config.h, switch from IPHONE_GRAPHICS to TTY_GRAPHICS
   * make all
+  * make dungeon
   * cd src ; make tile.c
   * in config.h, switch back to IPHONE_GRAPHICS
