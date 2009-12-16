@@ -18,7 +18,10 @@ Create date.h:
  * cd util ; make
  * cd src ; ../util/makedefs -v
 
+Recompile dungeons:
+
+ * cd dat ; make
+
 Some additional targets you have to update occasionally:
 
- * make dungeon
  * cd src ; make tile.c
