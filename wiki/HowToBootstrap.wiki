@@ -15,10 +15,8 @@ Create makefiles:
 
 Build TTY NetHack:
 
-  * in config.h, switch from IPHONE_GRAPHICS to TTY_GRAPHICS
-  * in src/Makefile, WINTTYLIB must be -lncurses
-  * make all
-  * in config.h, switch back to IPHONE_GRAPHICS
+  * cd util ; make makedefs
+  * cd src ; ../util/makedefs -v
 
 Some additional targets you have to update occasionally:
 
