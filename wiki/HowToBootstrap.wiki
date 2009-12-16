@@ -15,6 +15,7 @@ Create makefiles:
 
 Build TTY NetHack:
 
-  * In config.h, switch from IPHONE_GRAPHICS to TTY_GRAPHICS
+  * in config.h, switch from IPHONE_GRAPHICS to TTY_GRAPHICS
   * make all
   * cd src ; make tile.c
+  * in config.h, switch back to IPHONE_GRAPHICS
