@@ -3,7 +3,7 @@
 
 = Introduction =
 
-I could have sworn I had created a page for this, but apparently not ... *There's usually no need to do this.* Exceptions are changes to the core, like versions, or if you want to update the nethack branch completely (but then you'll have to do a lot more to patch).
+I could have sworn I had created a page for this, but apparently not ... *There's usually no need to do this.*
 
 = Details =
 
@@ -11,14 +11,14 @@ All commands to be executed from nethack top level directory.
 
 Create makefiles:
 
-  * cd sys/unix; sh setup.sh
+ * cd sys/unix; sh setup.sh
 
-Build TTY NetHack:
+Create date.h:
 
-  * cd util ; make makedefs
-  * cd src ; ../util/makedefs -v
+ * cd util ; make
+ * cd src ; ../util/makedefs -v
 
 Some additional targets you have to update occasionally:
 
-  * make dungeon
-  * cd src ; make tile.c
+ * make dungeon
+ * cd src ; make tile.c
