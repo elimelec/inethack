@@ -15,4 +15,5 @@ Create makefiles:
 
 Build TTY NetHack:
 
+  * In config.h, switch from IPHONE_GRAPHICS to TTY_GRAPHICS
   * make spotless ; make
