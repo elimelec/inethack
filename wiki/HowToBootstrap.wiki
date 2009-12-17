@@ -7,7 +7,7 @@
 
 = Details =
 
-All commands to be executed from nethack top level directory.
+All commands to be executed from nethack top level directory. *Remember that Snow Leopard builds NetHack 64 bit by default*.
 
 Create makefiles:
 
