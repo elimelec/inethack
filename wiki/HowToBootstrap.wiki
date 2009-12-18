@@ -26,3 +26,7 @@ Recompile dungeons:
 Some additional targets you have to update occasionally:
 
  * cd src ; make tile.c
+
+Extrea clean
+
+ * make spotless
