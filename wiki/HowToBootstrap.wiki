@@ -12,6 +12,7 @@ All commands to be executed from nethack top level directory. *Remember that Sno
 Create makefiles:
 
  * cd sys/unix; sh setup.sh
+ * use -arch i386
 
 Create date.h:
 
