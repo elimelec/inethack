@@ -18,10 +18,13 @@ CFLAGS = -arch i386 -O -I../include
 LFLAGS = -m32
 }}}
 
-Create date.h:
+Create date.h, pm.h, Onames.h:
 
  * cd util ; make
- * cd src ; ../util/makedefs -v
+ * cd src ; ../util/makedefs -v # date.h
+ * cd src ; ../util/makedefs -p # pm.h
+ * cd src ; ../util/makedefs -o # Onames.h, dat/options?
+ * cd src ; ../util/makedefs -m # monstr.c
 
 Recompile dungeons:
 
