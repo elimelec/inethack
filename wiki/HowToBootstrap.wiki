@@ -25,6 +25,7 @@ Create date.h, pm.h, Onames.h etc.:
  * cd src ; ../util/makedefs -p # pm.h
  * cd src ; ../util/makedefs -o # Onames.h, dat/options?
  * cd src ; ../util/makedefs -m # monstr.c
+ * cd src ; ../util/makedefs -f # filename.h
 
 Recompile dungeons:
 
