@@ -1,5 +1,5 @@
 #summary How to bootstrap iNetHack on Mac OS X.
-#labels nethack,bootstrapping
+#labels nethack,bootstrapping,slashem
 
 = Introduction =
 
@@ -10,6 +10,8 @@
 All commands to be executed from nethack top level directory. *Remember that Snow Leopard builds NetHack 64 bit by default*.
 
 Create makefiles:
+
+*Note* that for some patches to work (e.g. Jedi for Slash'EM) you might have to omit the arg for setup.sh so the Makefiles are copied not symlinked.
 
  * cd sys/unix; sh setup.sh arg # for symbolic links
  * use -arch i386 in the makefiles you use
